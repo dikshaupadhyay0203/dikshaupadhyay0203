@@ -19,7 +19,7 @@ To become a skilled **Data Scientist** with a strong foundation in **Full-Stack 
 ---
 
 ### 📊 GitHub Stats
-![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshaupadhyay&show_icons=true&theme=radical)
+![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshaupadhyay0203&show_icons=true&theme=radical)
 
 ---
 
