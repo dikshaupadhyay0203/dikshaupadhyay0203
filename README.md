@@ -29,6 +29,22 @@ To become a skilled **Data Scientist** with a strong foundation in **Full-Stack 
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaupadhyay0203&layout=compact&theme=radical)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dikshaupadhyay0203&color=blue)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshaupadhyay0203&theme=radical)
+
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dikshaupadhyay0203&theme=radical)
+
+
 *Thanks for stopping by! I'm always open to learning, collaborating, and creating.* 🚀
 
 
