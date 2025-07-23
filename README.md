@@ -44,6 +44,8 @@ To become a skilled **Data Scientist** with a strong foundation in **Full-Stack 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dikshaupadhyay0203&theme=radical)
 
+---
+
 
 *Thanks for stopping by! I'm always open to learning, collaborating, and creating.* 🚀
 
