@@ -1,15 +1,14 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F763B0&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Diksha+Upadhyay+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+Web+Developer+%7C+ML+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F763B0&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Diksha+Upadhyay+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+Web+Developer+%7C+ML+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech Computer Science student at **Lovely Professional University**  
 🔍 Curious mind with a strong interest in **Data Science**, **Full-Stack Development**, and real-world problem solving  
 💡 I love turning data into insights and building end-to-end applications that make a difference  
 🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213913327-43b5b8c1-3f42-4609-96f2-722eb6a50c66.gif" width="100%" />
-</p>
-
+---
 
 ### 🎯 My Goal
 
@@ -43,6 +42,15 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshaupadhyay0203&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaupadhyay0203&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dikshaupadhyay0203&theme=radical" height="165" />
+</p>
+
 ![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshaupadhyay0203&show_icons=true&theme=radical)
 
 ---
