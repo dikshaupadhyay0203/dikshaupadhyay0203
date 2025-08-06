@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Diksha Upadhyay
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F763B0&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Diksha+Upadhyay+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+Web+Developer+%7C+ML+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" />
 
 🎓 B.Tech Computer Science student at **Lovely Professional University**  
 🔍 Curious mind with a strong interest in **Data Science**, **Full-Stack Development**, and real-world problem solving  
