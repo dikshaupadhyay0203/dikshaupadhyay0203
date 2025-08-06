@@ -6,7 +6,10 @@
 🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack**
 
 ### 🎯 My Goal
-To become a skilled **Data Scientist** with a strong foundation in **Full-Stack Development**, and build smart, scalable, and impactful tech solutions.
+
+🔹 To become a **skilled Data Scientist** with a strong grasp of **Full-Stack Development**  
+🔹 To craft **smart, scalable**, and **impact-driven tech solutions**  
+🔹 To combine the power of **data** and **code** to solve real-world problems  
 
 ---
 
@@ -37,14 +40,14 @@ To become a skilled **Data Scientist** with a strong foundation in **Full-Stack 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) *(learning)*  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
 #### 🗄️ Databases  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) *(learning)*
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
 
 ---
