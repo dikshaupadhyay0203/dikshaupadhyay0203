@@ -6,7 +6,10 @@
 💡 I love turning data into insights and building end-to-end applications that make a difference  
 🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack**
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213913327-43b5b8c1-3f42-4609-96f2-722eb6a50c66.gif" width="100%" />
+</p>
+
 
 ### 🎯 My Goal
 
