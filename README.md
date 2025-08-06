@@ -57,7 +57,7 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dikshaupadhyay020300/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dikshaupadhyay0203@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dikshaupadhyay0203@gmail.com) <br>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://dikshaupadhyay0203.github.io/Portfolio/)
 
 
