@@ -5,6 +5,8 @@
 💡 I love turning data into insights and building end-to-end applications that make a difference  
 🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack**
 
+---
+
 ### 🎯 My Goal
 
 🔹 To become a **skilled Data Scientist** with a strong grasp of **Full-Stack Development**  
