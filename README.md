@@ -66,9 +66,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshaupadhyay0203&show_icons=true&theme=radical" height="165" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaupadhyay0203&layout=compact&theme=radical" height="165" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dikshaupadhyay0203&theme=radical" height="165" />
 </p>
