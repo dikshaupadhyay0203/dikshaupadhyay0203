@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Diksha Upadhyay
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F763B0&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Diksha+Upadhyay+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+Web+Developer+%7C+ML+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech Computer Science student at **Lovely Professional University**  
 🔍 Curious mind with a strong interest in **Data Science**, **Full-Stack Development**, and real-world problem solving  
@@ -43,13 +45,19 @@
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dikshaupadhyay020300/)  
-📧 Email: dikshaupadhyay0203@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaupadhyay0203&layout=compact&theme=radical)
+
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaupadhyay0203&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dikshaupadhyay0203&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dikshaupadhyay020300/)  
+📧 Email: dikshaupadhyay0203@gmail.com
 
 ---
 
@@ -59,10 +67,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshaupadhyay0203&theme=radical)
 
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dikshaupadhyay0203&theme=radical)
 
 ---
 
