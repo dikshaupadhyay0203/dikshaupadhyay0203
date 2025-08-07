@@ -5,7 +5,7 @@
 🎓 B.Tech Computer Science student at **Lovely Professional University**  
 🔍 Curious mind with a strong interest in **Data Science**, **Full-Stack Development**, and real-world problem solving  
 💡 I love turning data into insights and building end-to-end applications that make a difference  
-🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack**
+🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack **
 
 ---
 
