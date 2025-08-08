@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F763B0&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Diksha+Upadhyay+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+Web+Developer+%7C+ML+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-🎓 B.Tech Computer Science student at **Lovely Professional University**  
+🎓 B.Tech Computer Science student at **Lovely Professional University**   
 🔍 Curious mind with a strong interest in **Data Science**, **Full-Stack Development**, and real-world problem solving  
 💡 I love turning data into insights and building end-to-end applications that make a difference  
 🌱 Currently learning: **Machine Learning**, **Django**, and expanding my **tech stack**
